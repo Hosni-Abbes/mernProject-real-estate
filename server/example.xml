@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+    <Ad ObjectId="1" >
+        <BuildingInfos>
+            <BuildingInfo Datatype="Text" Field="title" Name="Title">Building 1</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="description" Name="Description">Description Building 1</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="buildingYear" Name="BuildingYear">2024</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="condition" Name="Condition">7</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="space" Name="Space">400</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="bedrooms" Name="Bedrooms">4</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="kitchens" Name="Kitchens">1</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="bathrooms" Name="Bathrooms">3</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="price" Name="Price">12684</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="currency" Name="Currency">USD</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="street" Name="Street">street 1</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="zip" Name="ZIP">3080</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="city" Name="City">city</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="country" Name="Country">country</BuildingInfo>
+        </BuildingInfos>
+        
+        <Attachments>
+            <Attachment ContentType="image/jpeg" File="1.jpg" Category="1">XML Upload</Attachment>
+            <Attachment ContentType="image/jpeg" File="2.jpg" Category="2">XML Upload</Attachment>
+        </Attachments>
+    </Ad>
+
+    <Ad ObjectId="2" >
+        <BuildingInfos>
+            <BuildingInfo Datatype="Text" Field="title" Name="Title">Building 2</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="description" Name="Description">Description Building 2</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="buildingYear" Name="BuildingYear">2024</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="condition" Name="Condition">7</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="space" Name="Space">400</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="bedrooms" Name="Bedrooms">4</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="kitchens" Name="Kitchens">2</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="bathrooms" Name="Bathrooms">3</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="price" Name="Price">22684</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="currency" Name="Currency">USD</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="street" Name="Street">street 2</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="zip" Name="ZIP">3220</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="city" Name="City">city</BuildingInfo>
+            <BuildingInfo Datatype="Text" Field="country" Name="Country">country</BuildingInfo>
+        </BuildingInfos>
+        
+        <Attachments>
+            <Attachment ContentType="image/jpeg" File="1.jpg" Category="1">XML Upload</Attachment>
+            <Attachment ContentType="image/jpeg" File="2.jpg" Category="1">XML Upload</Attachment>
+        </Attachments>
+    </Ad>
+</Data>
+
+   
