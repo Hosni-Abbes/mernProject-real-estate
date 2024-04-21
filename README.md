@@ -21,7 +21,7 @@ This project containing Admin and user Dashboards ( authorization by user role )
 ## INSTALL PROJECT LOCALLY
 Open new Terminal and execute these commands:
 
-     git clone https://github.com/Hosni-Abbes/mernProject-real-estate.git
+     git clone https://github.com/Hosni-Abbes/node-react-mysql__Real-Estate.git
      cd server
      npm i
    
